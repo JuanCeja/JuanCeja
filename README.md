@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Java 🍵 | MERN Stack | Python 🐍 |  🚀</h3>
 
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="[https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png](https://media2.giphy.com/media/kbRb4eyCNC0aMz5x68/200.gif)" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://media2.giphy.com/media/kbRb4eyCNC0aMz5x68/200.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
