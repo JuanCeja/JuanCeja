@@ -30,8 +30,8 @@
 <br>
 <br>
 <br>
-**💬 Ask me about anything, I'll be happy to help!** <br>
-**💬 My inbox is always open, Contact me**
+<h3> 💬 Ask me about anything, I'll be happy to help! </h3>
+<h3> 💬 My inbox is always open, Contact me </h3>
 <br>
 <br> 
   <a href="https://www.linkedin.com/in/juan-ceja/">
