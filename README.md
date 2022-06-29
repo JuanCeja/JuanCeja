@@ -23,5 +23,5 @@
 <div>
   <h3> 🌱 Looking Forward To Learning </h3>
   <p>
-   <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="50">
+   <img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" width="50">
 </div>
