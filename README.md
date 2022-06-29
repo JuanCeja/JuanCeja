@@ -19,3 +19,9 @@
    <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="70"><img src="https://www.desuvit.com/wp-content/uploads/2021/03/mongodb-icon.png" width="70">
   <p>
 </div> 
+
+<div>
+  <h3> 🌱 Looking Forward To Learning </h3>
+  <p>
+   <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="50">
+</div>
