@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Juan Ceja 👋 </h1>
 <h3 align="center">🚀 Full-Stack Developer | Frontend Developer | Backend Developer |  🚀</h3>
-<h3 align="center">🚀 Java 🍵 | MERN Stack | Python 🐍 |  🚀</h3>
+<h3 align="center"> Java 🍵 | MERN Stack | Python 🐍 |  </h3>
 
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://media2.giphy.com/media/kbRb4eyCNC0aMz5x68/200.gif" />
