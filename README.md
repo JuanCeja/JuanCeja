@@ -10,6 +10,7 @@
   - 👨‍🔬 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 💬 Talk to me about Fantasy Football 🏈, MMA/Jiu-Jitsu 🤼‍♂️, aliens 👽, pyramids of Egypt 🐪, golfing ⛳ or anything that interests you.
 </div> 
 </div>
 
