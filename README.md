@@ -23,5 +23,5 @@
 <div>
   <h3> 🌱 Looking Forward To Learning </h3>
   <p>
-   <img src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png" width="50"> <img src="https://mui.com/static/logo.png" width="50"><img src="https://flyclipart.com/thumb2/aws-simple-icons-aws-cloud-519440.png" width="50">
+   <img src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png" width="50"> <img src="https://mui.com/static/logo.png" width="50"><img src="https://www.citypng.com/public/uploads/preview/-11596297710hgpzrfojz4.png" width="50">
 </div>
